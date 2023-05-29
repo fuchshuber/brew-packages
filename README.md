@@ -10,10 +10,12 @@ A list of recommendations for Homebrew packages that I have installed on my mac.
 
 ## CLI Tools
 
-- [`jq`](https://formulae.brew.sh/formula/jq) (JSON processor)
-- [`trash`](https://formulae.brew.sh/formula/trash) (Trash helper)
-- [`tree`](https://formulae.brew.sh/formula/tree) (Directory listing)
-- [`wget`](https://formulae.brew.sh/formula/wget) (Web loader)
+- [`jq`](https://formulae.brew.sh/formula/jq) (JSON Processor)
+- [`trash`](https://formulae.brew.sh/formula/trash) (Trash Helper)
+- [`tree`](https://formulae.brew.sh/formula/tree) (Directory Listing)
+- [`speedtest-cli`]() (https://formulae.brew.sh/formula/speedtest-cli) (Internet Speed Testing)
+- [`watch`](https://formulae.brew.sh/formula/watch) (Periodically Process Executing)
+- [`wget`](https://formulae.brew.sh/formula/wget) (Web Loader)
 
 ## Software Development
 
@@ -21,21 +23,25 @@ A list of recommendations for Homebrew packages that I have installed on my mac.
 - [`gh`](https://formulae.brew.sh/formula/gh) (GitHub CLI)
 - [`gradle`](https://formulae.brew.sh/formula/gradle) (JVM build tool)
 - [`intellij-idea`](https://formulae.brew.sh/cask/intellij-idea) (Editor/IDE)
+- [`k6`](https://formulae.brew.sh/formula/k6)(Load Testing)
 - [`maven`](https://formulae.brew.sh/formula/maven) (JVM build tool)
 - [`node`](https://formulae.brew.sh/formula/node) (Node.js)
+- [`subversion`](https://formulae.brew.sh/formula/subversion) (Version Control)
 - [`visual-studio-code`](https://formulae.brew.sh/cask/visual-studio-code) (Editor/IDE)
 
 I manage my Java runtimes with [`SDKMAN!`])(https://sdkman.io/). That's there are no Java SKD or JDK packages in the list.
 
-## Cloud Containers
+## Cloud & Containers
 
 - [`aws-cli`](https://formulae.brew.sh/formula/awscli)
 - [`azure-cli`](https://formulae.brew.sh/formula/azure-cli) (Azure Cloud client)
 - [`gcloud`](https://formulae.brew.sh/cask/google-cloud-sdk) (Google Cloud client)
+- [`firebase-cli`])(https://formulae.brew.sh/cask/firebase-cli) (Google Firebase Client)
 - [`helm`](https://formulae.brew.sh/formula/helm) (Kubernetes Package Manager)
 - [`k9s`](https://formulae.brew.sh/formula/k9s) (Kubernetes TUI)
 - [`kubernetes-cli`](https://formulae.brew.sh/formula/kubernetes-cli) (Kubernetes API client)
 - [`podman`](https://formulae.brew.sh/cask/podman) (OCI Container Management)
+- [`terraform`](https://formulae.brew.sh/cask/terraform) (Cloud Infrastructure As Code)
 
 ## Internet
 
@@ -59,7 +65,13 @@ I manage my Java runtimes with [`SDKMAN!`])(https://sdkman.io/). That's there ar
 
 ## Audio/Video
 
+- ['asciinema'](https://formulae.brew.sh/formula/asciinema) (Terminal Session Recording)
 - [`ffmpeg`](https://formulae.brew.sh/formula/ffmpeg) (Audio/video Converter)
 - [`obs` (Cask)](https://formulae.brew.sh/cask/obs) (Broadcasting & Screencasting)
 - [`spotify` (Cask)](https://formulae.brew.sh/cask/spotify) (Music Streaming)
 - [`vlc` (Cask)](https://formulae.brew.sh/cask/vlc) (Multimedia Player)
+
+## Productivity
+
+- [`clipy` (Cask)](https://formulae.brew.sh/cask/clipy) (Clipboard Extension)
+- [`termhere` (Cask)](https://formulae.brew.sh/cask/termhere) (Finder Extension)
