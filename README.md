@@ -13,7 +13,7 @@ A list of recommendations for Homebrew packages that I have installed on my mac.
 - [`jq`](https://formulae.brew.sh/formula/jq) (JSON Processor)
 - [`trash`](https://formulae.brew.sh/formula/trash) (Trash Helper)
 - [`tree`](https://formulae.brew.sh/formula/tree) (Directory Listing)
-- [`speedtest-cli`]() (https://formulae.brew.sh/formula/speedtest-cli) (Internet Speed Testing)
+- [`speedtest-cli`](https://formulae.brew.sh/formula/speedtest-cli) (Internet Speed Testing)
 - [`watch`](https://formulae.brew.sh/formula/watch) (Periodically Process Executing)
 - [`wget`](https://formulae.brew.sh/formula/wget) (Web Loader)
 
@@ -29,14 +29,14 @@ A list of recommendations for Homebrew packages that I have installed on my mac.
 - [`subversion`](https://formulae.brew.sh/formula/subversion) (Version Control)
 - [`visual-studio-code`](https://formulae.brew.sh/cask/visual-studio-code) (Editor/IDE)
 
-I manage my Java runtimes with [`SDKMAN!`])(https://sdkman.io/). That's there are no Java SKD or JDK packages in the list.
+I manage my Java runtimes with [`SDKMAN!`](https://sdkman.io/). That's there are no Java SKD or JDK packages in the list.
 
 ## Cloud & Containers
 
 - [`aws-cli`](https://formulae.brew.sh/formula/awscli)
 - [`azure-cli`](https://formulae.brew.sh/formula/azure-cli) (Azure Cloud client)
 - [`gcloud`](https://formulae.brew.sh/cask/google-cloud-sdk) (Google Cloud client)
-- [`firebase-cli`])(https://formulae.brew.sh/cask/firebase-cli) (Google Firebase Client)
+- [`firebase-cli`](https://formulae.brew.sh/cask/firebase-cli) (Google Firebase Client)
 - [`helm`](https://formulae.brew.sh/formula/helm) (Kubernetes Package Manager)
 - [`k9s`](https://formulae.brew.sh/formula/k9s) (Kubernetes TUI)
 - [`kubernetes-cli`](https://formulae.brew.sh/formula/kubernetes-cli) (Kubernetes API client)
