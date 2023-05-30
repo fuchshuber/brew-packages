@@ -67,7 +67,7 @@ I manage my Java runtimes with [`SDKMAN!`](https://sdkman.io/). That's there are
 
 ## Audio/Video
 
-- ['asciinema'](https://formulae.brew.sh/formula/asciinema) (Terminal Session Recording)
+- [`asciinema`](https://formulae.brew.sh/formula/asciinema) (Terminal Session Recording)
 - [`ffmpeg`](https://formulae.brew.sh/formula/ffmpeg) (Audio/video Converter)
 - [`obs` (Cask)](https://formulae.brew.sh/cask/obs) (Broadcasting & Screencasting)
 - [`spotify` (Cask)](https://formulae.brew.sh/cask/spotify) (Music Streaming)
