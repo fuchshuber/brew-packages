@@ -25,7 +25,7 @@ A list of recommendations for Homebrew packages that I have installed on my mac.
 - [`gh`](https://formulae.brew.sh/formula/gh) (GitHub CLI)
 - [`gradle`](https://formulae.brew.sh/formula/gradle) (JVM build tool)
 - [`intellij-idea`](https://formulae.brew.sh/cask/intellij-idea) (Editor/IDE)
-- [`k6`](https://formulae.brew.sh/formula/k6)(Load Testing)
+- [`k6`](https://formulae.brew.sh/formula/k6) (Load Testing)
 - [`maven`](https://formulae.brew.sh/formula/maven) (JVM build tool)
 - [`node`](https://formulae.brew.sh/formula/node) (Node.js)
 - [`subversion`](https://formulae.brew.sh/formula/subversion) (Version Control)
@@ -35,13 +35,13 @@ I manage my Java runtimes with [`SDKMAN!`](https://sdkman.io/). That's there are
 
 ## Cloud & Containers
 
-- [`aws-cli`](https://formulae.brew.sh/formula/awscli)
-- [`azure-cli`](https://formulae.brew.sh/formula/azure-cli) (Azure Cloud client)
-- [`gcloud`](https://formulae.brew.sh/cask/google-cloud-sdk) (Google Cloud client)
-- [`firebase-cli`](https://formulae.brew.sh/cask/firebase-cli) (Google Firebase Client)
+- [`aws-cli`](https://formulae.brew.sh/formula/awscli) (AWS CLI Client)
+- [`azure-cli`](https://formulae.brew.sh/formula/azure-cli) (Azure Cloud CLI Client)
+- [`gcloud`](https://formulae.brew.sh/cask/google-cloud-sdk) (Google Cloud CLI Client)
+- [`firebase-cli`](https://formulae.brew.sh/cask/firebase-cli) (Google Firebase CLI Client)
 - [`helm`](https://formulae.brew.sh/formula/helm) (Kubernetes Package Manager)
 - [`k9s`](https://formulae.brew.sh/formula/k9s) (Kubernetes TUI)
-- [`kubernetes-cli`](https://formulae.brew.sh/formula/kubernetes-cli) (Kubernetes API client)
+- [`kubernetes-cli`](https://formulae.brew.sh/formula/kubernetes-cli) (Kubernetes API Client)
 - [`podman`](https://formulae.brew.sh/cask/podman) (OCI Container Management)
 - [`terraform`](https://formulae.brew.sh/cask/terraform) (Cloud Infrastructure As Code)
 
@@ -59,7 +59,7 @@ I manage my Java runtimes with [`SDKMAN!`](https://sdkman.io/). That's there are
 
 ## Office
 
-- [`adobe-acrobat-reader` (Cask)])(https://formulae.brew.sh/cask/adobe-acrobat-reader) (PDF Reader)
+- [`adobe-acrobat-reader` (Cask)](https://formulae.brew.sh/cask/adobe-acrobat-reader) (PDF Reader)
 - [`deckset`(Cask)](https://formulae.brew.sh/cask/deckset) (Markdown Presentations)
 - [`google-drive` (Cask)](https://formulae.brew.sh/cask/google-drive) (Cloud Storage)
 - [`miro` (Cask)](https://formulae.brew.sh/cask/miro) (Online Whiteboard)
