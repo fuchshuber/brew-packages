@@ -1,3 +1,5 @@
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/fuchshuber/brew-packages)
+
 # Brew Packages
 
 A list of recommendations for Homebrew packages that I have installed on my mac.
