@@ -8,6 +8,7 @@ A list of recommendations for Homebrew packages that I have installed on my mac.
 
 - [`git`](https://formulae.brew.sh/formula/git) (Version Control)
 - [`htop`](https://formulae.brew.sh/formula/htop) (Process Manager)
+- [`iterm2` (cask)](https://formulae.brew.sh/cask/iterm2) (Terminal Replacement)
 - [`python3`](https://formulae.brew.sh/formula/python@3.9) (Scripting Language)
 
 ## CLI Tools
@@ -77,3 +78,8 @@ I manage my Java runtimes with [`SDKMAN!`](https://sdkman.io/). That's there are
 
 - [`clipy` (Cask)](https://formulae.brew.sh/cask/clipy) (Clipboard Extension)
 - [`termhere` (Cask)](https://formulae.brew.sh/cask/termhere) (Finder Extension)
+
+## OS Enhancements
+
+- [`coconutbattery` (Cask)](https://formulae.brew.sh/cask/coconutbattery) (Battery Management)
+- [`rectangle` (Cask)](https://formulae.brew.sh/cask/rectangle) (Window Management)
