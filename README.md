@@ -18,6 +18,7 @@ A list of recommendations for Homebrew packages that I have installed on my mac.
 - [`tree`](https://formulae.brew.sh/formula/tree) (Directory Listing)
 - [`speedtest-cli`](https://formulae.brew.sh/formula/speedtest-cli) (Internet Speed Testing)
 - [`watch`](https://formulae.brew.sh/formula/watch) (Periodically Process Executing)
+- [`wifi-password`](https://formulae.brew.sh/formula/wifi-password) (Show the current WiFi network password)
 - [`wget`](https://formulae.brew.sh/formula/wget) (Web Loader)
 
 ## Software Development
@@ -73,6 +74,7 @@ I manage my Java runtimes with [`SDKMAN!`](https://sdkman.io/). That's there are
 - [`obs` (Cask)](https://formulae.brew.sh/cask/obs) (Broadcasting & Screencasting)
 - [`spotify` (Cask)](https://formulae.brew.sh/cask/spotify) (Music Streaming)
 - [`vlc` (Cask)](https://formulae.brew.sh/cask/vlc) (Multimedia Player)
+- [`youtube-dl`](https://formulae.brew.sh/formula/youtube-dl) (YouTube Downloader)
 
 ## Productivity
 
