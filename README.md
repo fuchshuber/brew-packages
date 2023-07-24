@@ -80,6 +80,7 @@ I manage my Java runtimes with [`SDKMAN!`](https://sdkman.io/). That's there are
 
 - [`clipy` (Cask)](https://formulae.brew.sh/cask/clipy) (Clipboard Extension)
 - [`termhere` (Cask)](https://formulae.brew.sh/cask/termhere) (Finder Extension)
+- [`pomatez` (Cask)]() (https://formulae.brew.sh/cask/pomatez) (Pomodoro Timer)
 
 ## OS Enhancements
 
